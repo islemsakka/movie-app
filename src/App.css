@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+
+.addbox{
+ font-size: 150px;
+  border:1px  solid black ;
+  height: 250px;
+  width: 200px;
+  text-align: center;
+
+  margin: 1%;
+
+ 
+}
+.star{
+
+
+color: grey;
+
+}
+.search-box{
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.mini-star{
+  height: 20px;
+  width: 20px;
+}
+.bigbox{
+  border:1px  solid black ;
+  height: 800px;
+  margin: 1%;
+  padding: 1%;
+  background: space;
+
+
+}
+.exemple{
+  height: 250px;
+  width: 200px;
+  border:1px  solid black ;
+  text-align: center;
+  margin: 1%;
+
+}
+.img{
+  height: 200px;
+  width: 200px;
+
+}
+.film{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
